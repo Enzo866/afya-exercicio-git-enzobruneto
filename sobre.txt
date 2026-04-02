@@ -1,1 +1,5 @@
 Enzo Luigi Bruneto
+26 anos
+Aprender a criar páginas interativas,
+utilizar ferramentas de desenvolvimento e realizar o
+deploy de aplicações.
